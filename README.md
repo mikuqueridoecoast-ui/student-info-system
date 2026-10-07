@@ -64,3 +64,7 @@ Edit `config/config.json`.
 - `main` holds stable code.
 - Each feature uses a branch named `feature/<name>`.
 - Changes merge through pull requests.
+
+
+## Usage
+Run python src/main.py and choose a menu option from 1 to 8.
